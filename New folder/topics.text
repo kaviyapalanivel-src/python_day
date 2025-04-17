@@ -1,0 +1,66 @@
+
+
+### 1. Debugging in Python
+**Definition**: The process of identifying and removing errors or bugs in a Python program. This can involve using print statements, logging, or debugging tools to trace the flow of execution and inspect variable values.
+
+### 2. Class and Objects
+**Definition**: Fundamental concepts of Object-Oriented Programming (OOP) in Python. A class is a blueprint for creating objects (instances), which can have attributes (data) and methods (functions) that define their behavior.
+
+### 3. Lambda, Filters, and Maps
+**Definition**: Functional programming features in Python. 
+- **Lambda**: An anonymous function defined with the `lambda` keyword, used for creating small, one-time functions.
+- **Filter**: A built-in function that constructs an iterator from elements of an iterable for which a function returns true.
+- **Map**: A built-in function that applies a given function to all items in an iterable and returns a map object (which can be converted to a list).
+
+### 4. Python PIP
+**Definition**: The package installer for Python, allowing users to install and manage additional libraries and dependencies that are not part of the standard library. PIP is used to install packages from the Python Package Index (PyPI).
+
+### 5. Read Excel Data in Python
+**Definition**: The process of using libraries like `pandas` or `openpyxl` to read data from Excel files (.xls, .xlsx) into Python for data analysis or manipulation.
+
+### 6. Python MySQL
+**Definition**: The interaction between Python and MySQL databases, allowing users to perform database operations such as creating, reading, updating, and deleting (CRUD) records using libraries like `mysql-connector-python` or `SQLAlchemy`.
+
+### 7. Iterator
+**Definition**: An object in Python that implements the iterator protocol, consisting of the `__iter__()` and `__next__()` methods. Iterators allow for traversing through a collection (like lists or tuples) without exposing the underlying structure.
+
+### 8. Pickling
+**Definition**: The process of serializing and deserializing Python objects using the `pickle` module. Pickling converts a Python object into a byte stream, which can be saved to a file or transmitted over a network, while unpickling reconstructs the original object from the byte stream.
+
+### 9. Numbers and Math Operations
+**Definition**: Basic arithmetic operations and mathematical functions in Python, including addition, subtraction, multiplication, division, and the use of libraries like `math` for advanced mathematical operations.
+
+### 10. Variables and Names
+**Definition**: The concept of storing data in named locations (variables) in Python. Variables can hold different data types, such as integers, floats, strings, and more, and are used to reference and manipulate data throughout a program.
+
+### 11. String Basics
+**Definition**: Fundamental operations and methods for manipulating strings in Python, including string creation, concatenation, slicing, and built-in methods for searching, replacing, and formatting strings.
+
+### 12. Conditional Statements
+**Definition**: Control flow statements in Python that allow the execution of certain blocks of code based on specific conditions. This includes `if`, `elif`, and `else` statements.
+
+### 13. Functions
+**Definition**: Reusable blocks of code that perform a specific task. Functions can take parameters, return values, and help organize code into manageable sections.
+
+### 14. For and While Loop
+**Definition**: Control flow statements that allow repeated execution of a block of code. 
+- **For Loop**: Iterates over a sequence (like a list or string).
+- **While Loop**: Continues to execute as long as a specified condition is true.
+
+### 15. Functions as Arguments
+**Definition**: The ability to pass functions as arguments to other functions, enabling higher-order functions and functional programming techniques.
+
+### 16. List
+**Definition**: A built-in data type in Python that represents an ordered collection of items, which can be of different types. Lists are mutable, meaning their contents can be changed.
+
+### 17. Tuple
+**Definition**: A built-in data type in Python that represents an ordered collection of items, similar to lists, but immutable (cannot be changed after creation).
+
+### 18. Dictionaries
+**Definition**: A built-in data type in Python that represents a collection of key-value pairs. Dictionaries are unordered, mutable, and indexed by keys.
+
+### 19. List Comprehension
+**Definition**: A concise way to create lists in Python using a single line of code. List comprehensions allow for the transformation and filtering of lists in a readable format.
+
+### 20. File Handling
+**Definition**: The process of reading from and writing to files in Python. This includes opening files, reading their contents
